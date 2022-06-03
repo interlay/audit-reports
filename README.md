@@ -11,7 +11,7 @@ Last updated: June 3 2022
 - [13 April 2022: Audit of pallets and configuration](https://drive.google.com/file/d/1S-eOftjYj-sbGt8m6e88xbPgN71uhhHj/view). Scope: Vault functionality, governance related code (escrow, democracy, annuity, supply), high-level review of used ORM and Substrate libraries.
 
 ### SR Labs
-- [Automated code check](). Scope: Reachable runtime panic conditions, overflows, extrinsic weighting, unsafe code, & other code checks (Report pending publication).
+- [February 2021: Automated code check](). Scope: Reachable runtime panic conditions, overflows, extrinsic weighting, unsafe code, & other code checks (Report pending publication).
 
 ### Informal Systems
 
